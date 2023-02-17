@@ -310,6 +310,10 @@ header{
     border-width: 100%;
     border-color: gray;
 }
+.too-copyright a{
+  text-decoration: none;
+  color: deeppink;
+}
 nav.sticky{
     position: fixed;
     top: 0;
